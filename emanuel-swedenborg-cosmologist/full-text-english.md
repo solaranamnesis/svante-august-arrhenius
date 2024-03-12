@@ -83,3 +83,11 @@ That Swedenborg himself considered his _Principia_ to be chiefly of philosophica
 He however refers to a single philosopher, remarkably enough none more significant than Christian Wolff, who "has contributed much to the extension of true philosophy." To him Swedenborg expresses great thankfulness for the use he has had of Wolff's works in the revision of the _Principia_. It has however not been possible for me after comparing it with the works of Wolff referred to, to find those parts of Swedenborg's presentation in which he has permitted himself to be influenced by Wolff's views, excepting in the use of certain terms.
 
 One must admit that it is a grand thought to attempt to furnish an explanation of the world according to which a complete harmony reigns between the greatest and the least --- the stellar system and the atom --- or even according to Swedenborg's conception with its least part, the material point. It can also be easily understood why Swedenborg, who believed that he had happily solved this problem, felt the deepest satisfaction in a work which had occupied so large a portion of his life.
+
+[Table 1.](https://cdn.solaranamnesis.com/SvanteArrhenius/emanuelswedenborg-table01.png)
+
+[Table 2.](https://cdn.solaranamnesis.com/SvanteArrhenius/emanuelswedenborg-table02.png)
+
+[Table 3.](https://cdn.solaranamnesis.com/SvanteArrhenius/emanuelswedenborg-table03.png)
+
+[Table 4.](https://cdn.solaranamnesis.com/SvanteArrhenius/emanuelswedenborg-table04.png)
