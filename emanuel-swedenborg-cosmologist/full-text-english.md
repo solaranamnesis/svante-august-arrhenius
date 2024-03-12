@@ -2,6 +2,12 @@
 
 ## By Svante Arrhenius.
 
+### With four Plates.
+
+### Stockholm, 1908.
+
+#### Aftonbladets Tryckeri.
+
 The present volume of Swedenborg's scientific works contains his perhaps most highly valued work "Principia rerum naturalium."* In this work he attempts to give a philosophical presentation of what we might call molecular structure. Now since Swedenborg considered everything in the world, the small as well as the great, to be constructed according to the same fundamental principles, he has also in this work presented his views concerning the structure of the solar and world systems, which views have won considerable praise for the reason that the planets are described as having gone forth from the sun by means of a kind of centrifugal expulsion, a view which subsequently became classical in the works of Buffon, Kant and especially of Laplace. We also find in Swedenborg's _Principia_ reflections concerning the relation of the solar system to the milky way which remind us very much of the later expressions of Wright, Kant and Lambert. In this Introduction Swedenborg's cosmology and physics as set forth in the _Principia_ will be especially considered, but notes concerning his numerous contributions to physics, and also to chemistry, will be found in Vols. 1. and 3. of this series.
 
 *) Translated by Alfred H. Stroh from the original Swedish and revised by the author. Now reprinted from the Introduction to Vol. 2. of the edition of Swedenborg's scientific texts under publication by the Royal Swedish Academy of Sciences at Stockholm: Emanuel Swedenborg, Opera quaedam aut inedita aut obsoleta de rebus naturalibus, nunc edita sub auspiciis Regiae Academiae Scientiarum Suecicae, 2., Cosmologica, introductionem adiunxit Svante Arrhenius, edidit Alfred H. Stroh. Holmiae, ex officina Aftonbladet, 1908. Four plates from Part 3. of Swedenborg's _Principia_ of 1734, illustrating his theories of the development of the solar system and of the constitution of matter, are reproduced at the close of this contribution.
