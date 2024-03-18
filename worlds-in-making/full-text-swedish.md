@@ -144,19 +144,19 @@ En skadegörelse till följd af jordbäfningar, hvilken är af mycket betydande 
 
 Man har alltid varit benägen att ställa jordbäfningar och vulkanutbrott i sammanhang. Otvifvelaktigt existerar också ett sådant sammanhang för en stor del af de häftiga jordbäfningarna. För att visa detta, har den förutnämnda engelska kommittén gjort följande sammanställning angående Antillernas jordbäfningshistoria.
 
-1692. Port Royal, Jamaica, förstördt genom jordbäfning. Land sjunker ned i hafvet. Eruption af St. Kitts.
+1692\. Port Royal, Jamaica, förstördt genom jordbäfning. Land sjunker ned i hafvet. Eruption af St. Kitts.
 
-1718. Våldsam jordbäfning i St. Vincent, åtföljd af eruption.
+1718\. Våldsam jordbäfning i St. Vincent, åtföljd af eruption.
 
-1766-67. Våldsamma jordskalf i nordöstra Sydamerika, Cuba, Jamaica och Antillerna. Eruption af S:ta Lucia.
+1766-67\. Våldsamma jordskalf i nordöstra Sydamerika, Cuba, Jamaica och Antillerna. Eruption af S:ta Lucia.
 
-1797. Jordbäfning i Quito, förlust af 40,000 människolif. Jordskalf på Antillerna. Eruption på Guadeloupe.
+1797\. Jordbäfning i Quito, förlust af 40,000 människolif. Jordskalf på Antillerna. Eruption på Guadeloupe.
 
-1802. Häftig jordstöt i Antigua. Eruption på Guadeloupe.
+1802\. Häftig jordstöt i Antigua. Eruption på Guadeloupe.
 
-1812. Caracas, hufvudstad i Venezuela, totalt förstörd genom jordbäfning. Häftiga jordskalf i Nordamerikas sydstater, begynnande 11 nov. 1811. Eruptioner på St. Vincent och Guadeloupe.
+1812\. Caracas, hufvudstad i Venezuela, totalt förstörd genom jordbäfning. Häftiga jordskalf i Nordamerikas sydstater, begynnande 11 nov. 1811. Eruptioner på St. Vincent och Guadeloupe.
 
-1835-36. Häftiga jordskalf i Chile och Centralamerika. Eruption på Guadeloupe.
+1835-36\. Häftiga jordskalf i Chile och Centralamerika. Eruption på Guadeloupe.
 
 1902, April 19. Häftiga jordstötar, hvarigenom många städer i Central-Amerika förstördes. Mont Pelée på Martinique i verksamhet. Utbrott den 3 maj. Underhafskablar söndersletos, och hafvet sjönk tillbaka. Nya häftiga rörelser af hafvet den 8, 19 och 20 maj, 7 maj utbrott på St. Vincent, kablar förstöras, 8 maj häftigt utbrott af Mont Pelée. Förödelse af St. Pierre. Talrika smärre jordskalf.
 
