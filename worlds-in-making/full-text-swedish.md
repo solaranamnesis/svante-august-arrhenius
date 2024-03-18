@@ -44,7 +44,7 @@ Stockholm i Augusti 1906.
 
 _Författaren._
 
-# Vulkaniska företeelser och jordbäfningar. Jordens inre.
+# 1\. Vulkaniska företeelser och jordbäfningar. Jordens inre.
 
 De svåra olyckor, som under den sista tiden (april 1906) träffat de blomstrande samhällena kring Vesuvius och i Kalifornien, ha åter riktat mänsklighetens uppmärksamhet på de våldsamma krafter, som uppenbara sig i form af vulkaniska utbrott och jordbäfningar.
 
@@ -194,7 +194,7 @@ Milne har ur sina iakttagelser dragit den slutsatsen, att, om förbindelselinjen
 
 Jordstötarnas rörelse i jorden lär oss alltså, att våra slutsatser, att jordskorpan ej sträcker sig särdeles djupt, och att jordens innersta är gasformigt, nära motsvara verkligheten. Genom ett fördjupadt studium af seismogrammen kunna vi således hoppas att lära något mera om jordens allra innersta delar, hvilka vi, vid ett flyktigare betraktande, skulle vara böjda tro vara alldeles otillgängliga för den vetenskapliga forskningen.
 
-# Himlakropparna, särskildt jorden, såsom hemvist för lefvande varelser.
+# 2\. Himlakropparna, särskildt jorden, såsom hemvist för lefvande varelser.
 
 Få intryck äro så upplyftande som det, man erhåller då man en molnfri natt betraktar himlahvalfvet med dess tusenden af stjärnor. Då man sänder tanken bort till dessa i det oändliga fjärran glittrande ljus, kan man knappast undgå att fråga sig, om i deras omgifning finnas planeter liknande vår, som äro hemvist för organiskt lif. Hvilket obetydligt intresse har för oss en ödslig ö i de arktiska trakterna, som ej härbergerar ens den minsta planta, mot en sådan i tropikerna, på hvilken lifvet utvecklar sig i sin underbara mångfald? Likaså utöfva de främmande världarna på vår tanke en helt annan dragningskraft, om vi kunna tänka oss desamma tjäna lifvets intressen, än om vi måste föreställa oss dem såsom döda massor, som sväfva omkring i rymden.
 
@@ -270,7 +270,7 @@ Om nämligen kolsyremängden i luften sedan mycket länge hållit sig oförändr
 
 Man hör ofta beklagande öfver, att de i jorden samlade kolskatterna hastigt förskingras af nutidens människa utan tanke på framtiden, och man kan ej undgå att känna skräck för de våldsamma ödeläggelser af lif och egendom, som medfölja de häftiga vulkaniska utbrotten i vår tid. Det kan då möjligen lända till någon tröst, att i detta fall, likasom så ofta eljes, det ej finnes något ondt, som ej har något godt med sig. Genom den ökade kolsyrehaltens i luften inflytande hoppas vi att småningom närma oss tider af jämnare och bättre klimatiska förhållanden, särskildt i de kallare delarne af jorden, tider då jorden förmår att bära mångdubbelt ökade skördar till gagn för det hastigt växande människosläktet.
 
-# Solens strålning och konstitution.
+# 3\. Solens strålning och konstitution.
 
 I forna tider och äfven under det nyss gångna århundradet diskuterade man lifligt den frågan, huruvida jordens ställning inom solsystemet vore tryggad. Man kunde å ena sidan tänka sig, att jordens bana ändrade sig så, att jordens afstånd från solen ökades eller minskades, eller ock kunde dess vridning kring jordaxeln afstanna, och inträffade ett af dessa alternativ i någon större grad, så skulle lifvets existens på jorden vara hotad. Problemet om solsystemets stabilitet undersöktes af astronomerna, och deras gynnare uppställde höga pris för en lycklig lösning af frågan. Om solsystemet endast bestode af solen och jorden, så skulle systemets bestånd vara tryggadt för oändliga tider. De öfriga planeterna utöfva emellertid en, om ock ringa, inverkan på jordens rörelse. Att denna inverkan blir så obetydlig, beror därpå, att planeternas sammanlagda massa endast uppgår till omkring 1/750 af solens, äfvensom därpå, att de röra sig i nära nog cirkelformade banor kring solen som medelpunkt och därför aldrig komma hvarandra nära. Astronomernas räkningar visa, att störingarna äfvenledes äro periodiska med långa perioder om 50,000 till 2,000,000 års längd, så att hela verkan inskränker sig till en obetydlig svajning af planeternas banor kring ett medelläge.
 
