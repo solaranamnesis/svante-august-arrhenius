@@ -8,7 +8,7 @@ English - Plain Text
 English - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom | B&WCustom  
 German - Plain Text  
 German - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom | B&WCustom  
-Swedish - Plain Text  
+[Swedish - Plain Text](worlds-in-making/full-text-swedish.md)  
 Swedish - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom | B&WCustom  
 
 ## The Life of the Universe.
