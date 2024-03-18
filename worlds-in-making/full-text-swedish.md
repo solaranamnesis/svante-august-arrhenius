@@ -12,6 +12,24 @@
 
 ---
 
+# [Företal till Första Upplagan.](#företal-till-första-upplagan-1)
+
+# [1\. Vulkaniska företeelser och jordbäfningar. Jordens inre.](#1-vulkaniska-företeelser-och-jordbäfningar-jordens-inre-1)
+
+# [2\. Himlakropparna, särskildt jorden, såsom hemvist för lefvande varelser.](#2-himlakropparna-särskildt-jorden-såsom-hemvist-för-lefvande-varelser-1)
+
+# [3\. Solens strålning och konstitution.](#3-solens-strålning-och-konstitution-1)
+
+# [4\. Strålningstrycket.](#4-strålningstrycket-1)
+
+# [5\. Solstoftet i jordens atmosfär; polarsken och jord magnetismens variationer.](#5-solstoftet-i-jordens-atmosfär-polarsken-och-jord-magnetismens-variationer-1)
+
+# [6\. Solens undergång. Nebulosors uppkomst.](#6-solens-undergång-nebulosors-uppkomst-1)
+
+# [7\. Nebulosatillståndet och soltillståndet.](#7-nebulosatillståndet-och-soltillståndet-1)
+
+# [8. Lifvets utbredning genom världsrymden.](#8-lifvets-utbredning-genom-världsrymden-1)
+
 ---
 
 # Företal till Första Upplagan.
