@@ -1,4 +1,4 @@
-![image](https://github.com/solaranamnesis/svante-august-arrhenius/assets/31825284/0199d153-4b5a-4425-92aa-4d1a82528d44)# Världarnas Utveckling.
+# Världarnas Utveckling.
 
 ## Av Svante Arrhenius.
 
