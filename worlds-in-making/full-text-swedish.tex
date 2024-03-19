@@ -11,6 +11,7 @@
 \usepackage{amssymb}
 \usepackage{array}
 \usepackage{imakeidx}
+\usepackage{float}
 \usepackage{microtype}
 \begin{document}
 \begin{titlepage} % Suppresses headers and footers on the title page
@@ -274,18 +275,24 @@ Jorden förhåller sig i visst afseende, så som en ångmaskin. För att denna s
 
 Såsom vi strax skola se, beror jordytans temperatur i någon mån på den omgifvande atmosfärens beskaffenhet och särskildt dess genomskinlighet. Om jorden ej ägde någon atmosfär, eller denna vore fullkomligt genomskinlig, så skulle man med kännedom om solstrålningens styrka lätt kunna beräkna jordytans medeltemperatur i enlighet med en av Stefan uppställd lag om värmeutstrålningens beroende av temperaturen. Under det sannolika antagandet av, att solstrålningen vid jordens medelafstånd från solen vore så stark, att den tillförde en svart kropp, hvars mot solstrålarna vinkelräta genomskärning vore 1 kvadratcentimeter, 2,5 gramkalorier i minuten, har Christiansen beräknat medeltemperaturen å de olika planeternas ytor. Den visas av nedanstående tabell, som också anger planeternas medelafstånd från solen, då jordens medelafstånd från denna himlakropp (149,5 miljoner kilometer) tages såsom enhet.
 
-Planet|Radie|Massa|Medelafstånd|Medeltemp.|Specifik vikt  
-Merkurius|0,37|0,032|0,39|+178°(332)|0,63  
-Venus|1,00|0,805|0,72|+65|0,80  
-Jorden|1,00|1,00|1,00|+6,5|1,00  
-Månen|0,27|0,012|1,00|+106|0,62  
-Mars|0,53|0,11|1,52|-37|0,71  
-Jupiter|11,6|310|5,2|-147|0,23  
-Saturnus|9,3|93|9,55|-180|0,115  
-Uranus|4,2|14,7|19,22|-207|0,194  
-Neptunus|3,8|16,5|30,12|-221|0,31  
-Solen|108,6|324,440|0|6,200|0,25  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l r r r r r}
+        Planet & Radie & Massa & Medelafstånd & Medeltemp. & Specifik vikt   \\
+        Merkurius & 0,37 & 32 & 0,39 & +178°(332) & 0,63   \\
+        Venus & 1,00 & 805 & 0,72 & 65 & 0,80   \\
+        Jorden & 1,00 & 1,00 & 1,00 & +6,5 & 1,00   \\
+        Månen & 0,27 & 12 & 1,00 & 106 & 0,62   \\
+        Mars & 0,53 & 0,11 & 1,52 & -37 & 0,71   \\
+        Jupiter & 11,6 & 310 & 5,2 & -147 & 0,23   \\
+        Saturnus & 9,3 & 93 & 9,55 & -180 & 115 \\
+        Uranus & 4,2 & 14,7 & 19,22 & -207 & 194 \\
+        Neptunus & 3,8 & 16,5 & 30,12 & -221 & 0,31   \\
+        Solen & 108,6 & 324440 & 0 & 6200 & 0,25 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Då Merkurius ständigt vänder samma sida mot solen, har jag för denna planet bifogat en siffra, 332, som anger medeltemperaturen på dess mot solen vända sida; dennas hetaste punkt uppnår ej mindre än 397° C., medan den frånvända sidan måste ha en temperatur, föga skild från den absoluta nollpunkten, -273° C. En liknande beräkning har jag gjort för månen, som så sakta vrider sig kring sin axel (en gång på 27 dygn), att temperaturen på den solbelysta hälften blir nära lika stor (106°) som om den ständigt vände samma sida mot solen. Dess hetaste punkt har en temperatur av omkring 150 grader enligt denna beräkning. Månens poler och den del av den från solen vända sidan, som längst varit utan solsken, måste ha en temperatur föga överstigande den absoluta nollpunkten. Detta stämmer också väl överens med de mätningar av månens temperatur, som utförts genom bestämning av värmestrålningen från månen. Den äldsta mätning av dylik art gjordes av lord Rosse; han fann, att den solbelysta månskifvan (således gjordes iakttagelserna vid fullmåne) strålar ut lika mycket värme som en (svart) kropp av +110C. En senare mätning av amerikanen Very synes gifva vid handen, att månens hetaste punkt är omkring 180 grader, således omkring 30 grader högre än beräkningen angifver. För månen och Merkurius, som ej hafva någon nämnvärd atmosfär, torde beräkningen nära överensstämma med verkligheten.
 
 Hvad vidare temperaturen på planeten Venus beträffar, så skulle den, om atmosfären vore fullt genomskinlig, uppgå till +65° C. Vi veta emellertid, att i denna planets atmosfär täta moln, troligen av vattendroppar, sväfva, som förhindra oss att iakttaga den fasta ytan och hafven på Venus. Enligt bestämningar av Zöllner och andra angående denna planets ljusstyrka, återkasta dessa moln ej mindre än 76 procent av det mot planeten infallande solljuset, med andra ord planeten Venus är ungefär lika hvit som en snöboll. Värmestrålarna återkastas ej i så hög grad, man kan uppskatta den av planeten infångade delen till omkring hälften av det infallande värmet. Härigenom åstadkommes en betydlig nedsättning av planetens temperatur, hvilken likväl delvis höjes genom dess atmosfärs skyddande inverkan. Medeltemperaturen på Venus är därför nog ej obetydligt lägre än den beräknade och torde sannolikt uppgå till omkring 40 grader Celsius. Det synes således ej alls vara orimligt att antaga, att ganska betydande delar av Venus' yta äro lämpliga för bärande av organiskt lif, särskildt trakterna kring dess poler.
@@ -502,19 +509,31 @@ Man har länge iakttagit en egendomlig företeelse hos lufttrycket i tropikerna 
 
 Huru detta fenomen beror på de yttre omständigheterna synes av följande tabeller.
 
-Geografisk bredd|0|10|20|30|40|50|60°  
-Variation (Amplitud)|0,98|0,92|0,81|0,65|0,46|0,27|0,09 m. m.
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l l l l l l l l}
+        Geografisk bredd & 0 & 10 & 20 & 30 & 40 & 50 & 60°   \\
+        Variation (Amplitud) & 0,98 & 0,92 & 0,81 & 0,65 & 0,46 & 0,27 & 0,09 m. m. \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Amplituden anger halfva den dagliga förändringen, så att den utgör medeltalet av de fyra värden, som ange de två maximas och de två minimas afvikelse från barometermedelståndet. Fenomenet aftar mycket hastigt mot polerna.
 
-Årsvariationen framgår av följande tabell för observationsorter belägna på 1) 10° n bredd 2) 22,30 s. br. 3) 41°, 52' n. br. (Rom) och 4) 59°, 52' n. br. (Uppsala).
+Årsvariationen framgår av följande tabell för observationsorter belägna på 1) 10° n bredd 2) 22,30 s. br. 3) 41°, 52$^{\prime}$ n. br. (Rom) och 4) 59°, 52$^{\prime}$ n. br. (Uppsala).
 
-Jan.|Febr.|Mars.|Apr.|Maj.|Juni.|Juli.|Aug.|Sept.|Okt.|Nov.|Dec.|År.  
-1.|**0,79**|0,80|**0,88**|0,82|0,73|**0,65**|**0,65**|0,69|0,75|0,78|**0,82**|**0,79**|0,76  
-2.|**0,65**|0,68|**0,70**|0,68|0,64|**0,61**|0,63|0,66|**0,72**|**0,72**|0,67|0,66|0,67  
-3.|0,30|0,33|**0,35**|0,32|0,29|**0,26**|**0,26**|0,30|0,35|**0,36**|0,33|**0,29**|0,31  
-4.|0,13|0,11|0,15|**0,16**|0,14|**0,13**|**0,13**|0,14|**0,17**|0,15|0,11|**0,10**|0,13  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{p{3mm} p{5mm} p{5mm} p{6mm} p{5mm} p{5mm} p{5mm} p{5mm} p{5mm} p{5mm} p{5mm} p{5mm} p{5mm} p{5mm}}
+        ~ & Jan. & Febr. & Mars. & Apr. & Maj. & Juni. & Juli. & Aug. & Sept. & Okt. & Nov. & Dec. & År. \\
+        1 & \textbf{0,79} & 0,80 & \textbf{0,88} & 0,82 & 0,73 & \textbf{0,65} & \textbf{0,65} & 0,69 & 0,75 & 0,78 & \textbf{0,82} & \textbf{0,79} & 0,76 \\
+        2 & \textbf{0,65} & 0,68 & \textbf{0,70} & 0,68 & 0,64 & \textbf{0,61} & 0,63 & 0,66 & \textbf{0,72} & \textbf{0,72} & 0,67 & 0,66 & 0,67 \\
+        3 & 0,30 & 0,33 & \textbf{0,35} & 0,32 & 0,29 & \textbf{0,26} & \textbf{0,26} & 0,30 & 0,35 & \textbf{0,36} & 0,33 & \textbf{0,29} & 0,31 \\
+        4 & 0,13 & 0,11 & 0,15 & \textbf{0,16} & 0,14 & \textbf{0,13} & \textbf{0,13} & 0,14 & \textbf{0,17} & 0,15 & 0,11 & \textbf{0,10} & 0,13 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Man finner tydligt utprägladt ett maximum vid vår-och ett vid höst-dagjämningen, med däremellan liggande minima i December och Juni. Denna period är egendomlig för ändringen av den mängd solstoft, som faller ned i jordens atmosfär och som vi återfinna hos perioderna för polarskenen och de magnetiska störingarna.
 
 Den stora regelbundenheten hos denna företeelse, jämförd med de starkt utpräglade lokala egendomligheterna hos öfriga meteorologiska fenomen, häntyder på att den försiggår i så höga luftskikt, att inflytandet av fördelningen av land och haf ej förmår utöfva någon störande inverkan. Detta motsvaras av det förhållandet, att solstoftet hejdas på mycket stora höjder, bortåt 300 a 400 kilometer.
@@ -523,11 +542,17 @@ Den dagliga gången är även mycket regelbunden. Minimet efter middagen (kl. 3,
 
 Mängden solstoft, som faller in i luftkretsen, bör naturligtvis förändra sig och löpa parallellt med solens eruptiva verksamhet. Stoftmängden i de högre luftskikten har inflytande på solljusets färg. Efter vulkanen Rakatas på Krakatoa utbrott 1883 och, fastän i ringare grad, efter Mont Pelées på Martinique utbrott 1902 iakttog man det så kallade röda skenet. Samtidigt visade sig en annan företeelse, som kvantitativt kan mätas. Himlaljuset är polariseradt utom i några få punkter, bland hvilka en, den så kallade Aragos punkt, liggande något ofvanför solens motpunkt och en annan, Babinets punkt, liggande något ofvanför solen, äro de viktigaste. Om man bestämmer dessa punkters höjd över horisonten vid solnedgången finner man i överensstämmelse med de teoretiska förutsägelserna att denna är större, då de högre luftlagren äro fulla av stoft, såsom efter Rakatas utbrott, än under normala förhållanden. Busch, en tysk forskare, undersökte dessa punkters medelhöjd (i båggrader) vid solnedgången och fann följande egendomliga siffror:
 
-År|1886|87|88|89|90|91|92|93|94|95|Medeltal  
-Aragos punkt|20,1|19,7|18,4|17,8|**17,7**|20,6|19,6|20,2|**20,7**|18,8|19,4  
-Babinets punkt|23,9|21,9|17,9|26,8|**15,4**|23,3|21,4|**24,2**|23,3|19,0|20,7  
-Solfläckar ant.|25,1|19,1|6,7|**6,1**|6,5|35,6|73,8|**84,9**|78,0|63,9|40,0  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{p{10mm} r r r r r r r r r r r}
+        År & 1886 & 87 & 88 & 89 & 90 & 91 & 92 & 93 & 94 & 95 & Medeltal   \\
+        Aragos punkt & 20,1 & 19,7 & 18,4 & 17,8 & \textbf{17,7} & 20,6 & 19,6 & 20,2 & \textbf{20,7} & 18,8 & 19,4   \\
+        Babinets punkt & 23,9 & 21,9 & 17,9 & 26,8 & \textbf{15,4} & 23,3 & 21,4 & \textbf{24,2} & 23,3 & 19,0 & 20,7   \\
+        Solfläckar ant. & 25,1 & 19,1 & 6,7 & \textbf{6,1} & 6,5 & 35,6 & 73,8 & \textbf{84,9} & 78,0 & 63,9 & 40,0 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Det är en alldeles tydlig överensstämmelse i gången av dessa siffror. Nästan samtidigt med solfläcksmaximet når också de båda s. k. neutrala punkternas höjd över horisonten vid solnedgången ett maximivärde och liknande förhållanden gälla för minimivärdena. Måhända komma företeelserna i lufthafvet någon tid senare än de orsakande företeelserna på solen, såsom naturligt är.
 
 Då luften är rik på stoft, och även då den ioniserats i hög grad av katodstrålar, äro förhållandena gynnsamma för molnbildning. Detta senare kan man exempelvis iakttaga vid norrsken, som så regelbundet efterföljas av karaktäristiska molnbildningar, att Adam Paulsen med hjälp av dessa moln förmådde iakttaga norrsken midt på ljusa dagen. En översikt av sammanhanget mellan de högre molnens --- de så kallade fjädermolnens frekvens i Köln och solfläckarnas antal under perioden mellan 1850 och 1900 gaf Klein. Han visade, att under denna tid, som omfattar över fyra solfläcksperioder, maxima av solfläckar falla under de år, då största antalet fjädermoln iakttagas. På samma sätt inträffa minima i de båda företeelserna samtidigt.
@@ -572,45 +597,69 @@ Helt annorlunda förhåller sig solkoronan under maximiår för solfläckarna. D
 
 Att polarskenens periodicitet i icke-arktiska trakter mycket nära följer solfläckarnas, är kändt allt sedan Fritz 1863 påvisade detta förhållande. Periodlängden är ganska växlande mellan 7 och 16 år, i medeltal omfattar den 11,1 år. Årtalen för maxima och minima av solfläckar och norrsken äro följande:
 
-|Maximiår.  
-Solfläckar|1728|39|50|62|70|78|88|1804|16|30|37|48|60|71|83|93|1905  
-Norrsken|1730|41|49|61|73|78|88|1805|19|30|40|50|62|71|82|93|1905  
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{p{10mm} p{8mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{4mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{4mm}}
+        ~ & Maximiår.   & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\
+        Solfläckar & 1728 & 39 & 50 & 62 & 70 & 78 & 88 & 1804 & 16 & 30 & 37 & 48 & 60 & 71 & 83 & 93 & 1905 \\
+        Norrsken & 1730 & 41 & 49 & 61 & 73 & 78 & 88 & 1805 & 19 & 30 & 40 & 50 & 62 & 71 & 82 & 93 & 1905 \\
+    \end{tabular}
+\end{table}
 
-|Minimiår.  
-Solfläckar|1734|45|55|67|76|85|98|1811|23|34|44|56|67|78|89|1900  
-Norrsken|1735|44|55|66|75|83|99|1811|22|34|44|56|66|78|89|1900  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{p{12mm} p{10mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{4mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{2mm} p{4mm}}
+        ~ & Minimiår. & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\
+        Solfläckar & 1734 & 45 & 55 & 67 & 76 & 85 & 98 & 1811 & 23 & 34 & 44 & 56 & 67 & 78 & 89 & 1900 \\
+        Norrsken & 1735 & 44 & 55 & 66 & 75 & 83 & 99 & 1811 & 22 & 34 & 44 & 56 & 66 & 78 & 89 & 1900 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Dessutom förekomma, såsom redan De Marian påvisade i sitt klassiska arbete av år 1746, längre perioder som återfinnas i såväl solfläckarnas antal som i norrskenens. Enligt Hansky är denna periods längd 72 år, enligt Schuster 33 år. Starkt utpräglade maxima förekommo i början och slutet av 1700-talet, det sista år 1788, hvarefter norrsken voro ytterst sällsynta åren 1800-1830 likasom en tid vid midten av 1700-talet. 1850 och särskildt 1871 voro starka maxima, som sedan saknats.
 
 Beträffande polarskenens höjd finna vi i litteraturen högst olikartade uppgifter. Den synes i allmänhet vara desto större, ju närmare äkvatorn observationsorten är belägen, hvilket ju synnerligen väl överensstämmer med katodstrålarnas ringa nedböjning mot jordytan i de längre från polen belägna trakterna. Gyllenskiöld fann på Spetsbergen en medelhöjd av 55 kilometer, Bravais i nordligaste Norge 100-200 km., De Marian för Centraleuropa 900 km., Galle återigen 300 km. Paulsen har på Grönland observerat mycket låga norrsken, på Island fann han för norrskensbågarnas topp-punkt hvilken väl bör betraktas som norrskenets utgångspunkt omkring 400 kilometer. Dessa höjder, hvilka väl enligt äldre bestämningar äro ganska osäkra, äro ungefär av den storleksordning som man kunde förmoda motsvara den höjd på hvilken solstoftet borde hejdas av jordens luftkrets.
 
 Polarskenen besitta även en utpräglad årlig period hvilken lätt kan förklaras med hjälp av solstoftsteorien. Såsom vi ofvan sett förekomma fläckarna på solen endast sällan i närheten av solens äkvator, och detsamma gäller för facklorna. De tilltaga hastigt i mängd för högre sollatituder och nå ett maximum vid ungefär 150 sollatitud. Solens äkvatorialplan lutar omkring 7 grader mot jordens banplan. Jorden befinner sig i solens äkvatorialplan den 6 December och den 4 Juni och längst därifrån 3 månader senare. Man bör därför vänta, att antalet solstofts-partiklar som träffa jorden bör ha ett minimum, då jorden befinner sig i dess äkvatorialplan i December och Juni och maxima i Mars och September. Dessa förhållanden störas något av skymningsljuset, som i de polära trakterna förhindrar iakttagelser av polarsken under de ljusa sommarnätterna, medan däremot de mörka vinternätterna gynna iakttagandet av dessa svaga ljusfenomen. Fördelningen av polarskenen under olika tider av året framgår av följande av Ekholm och mig uppgjorda statistik.
 
-Sverige 1883-96|Norge 1861-95|Island och Grönland 1872-92|Nord.-Am. Förenta St. 1871-93|Södersten 1856-94  
-Januari|1056|**251**|804|1005|**56*\footnote{}  
-Februari|1173|331|734|1455|126  
-Mars|**1312**|**335**|613|1396|**183*\footnote{}  
-April|568|90|128|**1724**|148  
-Maj|170|6|1|1270|54  
-Juni|**10**|**0**|**0**|**1061**|40  
-Juli|54|0|0|1223|**35*\footnote{}  
-Augusti|191|18|40|1210|75  
-September|1055|209|455|**1735**|120  
-Oktober|**1114**|**353**|716|1630|**192*\footnote{}  
-November|1077|326|811|1240|112  
-December|**940**|260|**863**|**912**|81  
-Medeltal|727|181|430|1322|102  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{p{15mm} p{15mm} p{15mm} p{18mm} p{18mm} p{15mm}}
+        ~ & Sverige 1883-96 & Norge 1861-95 & Island och Grönland 1872-92 & Nord.-Am. Förenta St. 1871-93 & Södersten 1856-94 \\
+        Januari & 1056 & \textbf{251} & 804 & 1005 & \textbf{56}  \\
+        Februari & 1173 & 331 & 734 & 1455 & 126 \\
+        Mars & \textbf{1312} & \textbf{335} & 613 & 1396 & \textbf{183}  \\
+        April & 568 & 90 & 128 & \textbf{1724} & 148 \\
+        Maj & 170 & 6 & 1 & 1270 & 54 \\
+        Juni & \textbf{10} & \textbf{0} & \textbf{0} & \textbf{1061} & 40 \\
+        Juli & 54 & 0 & 0 & 1223 & \textbf{35} \\
+        Augusti & 191 & 18 & 40 & 1210 & 75 \\
+        September & 1055 & 209 & 455 & \textbf{1735} & 120 \\
+        Oktober & \textbf{1114} & \textbf{353} & 716 & 1630 & \textbf{192} \\
+        November & 1077 & 326 & 811 & 1240 & 112 \\
+        December & \textbf{940} & 260 & \textbf{863} & \textbf{912} & 81 \\
+        Medeltal & 727 & 181 & 430 & 1322 & 102 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 I trakter där skillnaden mellan dagens och nattens längd ej är allt för stor under olika delar av året, såsom enligt ofvanstående tabell, i Nordamerikas Förenta Stater och i trakter, i medeltal omkring 40° sydlig bredd, där södersken observerats, faller hufvudminimet under vintern, i December på norra, i Juni eller Juli på södra halfklotet och ett svagare utprägladt minimum inträffar under sommaren. Av de tider, under hvilka jorden går genom solens äkvatorialplan och då ett minimum av solstoft faller ned på jorden, är \emph{den} utmärkt genom en större polarskensfrekvens, under hvilken solen står högst på himmelen. Detta är hvad man har rätt att vänta, ty det mesta solstoftet faller ned på de världsdelar, över hvilka solen står högst vid middagstiden. De båda maxima i Mars eller April och September eller Oktober då jorden är längst aflägsnad från solens äkvatorialplan äro starkt utpräglade i alla serierna utom den för polarländerna Island och Grönland. Där bestämmes polarljusfrekvensen endast av skymningsljusets styrka, så att ett enda maximum faller i December det motsvarande minimet i Juni. Nyare statistik (1891-1903) ger dock ett minimum i december. Av samma orsak blir sommarminimet i de på hög breddgrad liggande länderna, såsom Sverige och Norge, mycket lågt.
 
 Av likartade grunder är det på de flesta orter synnerligen svårt att angifva polarskenens dagliga period. Det mesta solstoftet faller ned vid middagen, och de flesta polarskenen borde inträffa några timmar därefter, liksom den högsta dagstemperaturen infaller något efter middagen; på grund av den starka solbelysningen under dagen kan man icke observera detta maximum annat än i polartrakternas vinternatt, och då först om man inför en korrektion för skymningsljusets störande inflytande. På detta sätt fann Gyllenskiöld för Kap Thordsen på Spetsbergen ett norrskensmaximum klockan 2,40 e. m. Motsvarande minimum inföll klockan 7,40 förmiddagen. På andra orter kan man endast konstatera, att polarskenen äro kraftigare och vanligare före än efter midnatt. Maximet inträffar i mellersta Europa omkring kl. 9 e. m., i Sverige och i Norge (60° n. bredd) $\frac{1}{2}$ à 1 timme senare.
 
 Hos polarskenen har man även funnit ett par andra perioder av omkring en månads längd. Den ena räckande 25,93 dygn framträder särskilt hos söderskenen, där maximet ligger 44 proc. över medeltalet, för norrsken i Norge är siffran 23 proc. för sådana i Sverige endast 11 proc\footnote{Detta beror på att i de sydliga trakterna endast mycket få, och hufvudsakligen starka, polarsken bli registrerade. Observerar man mycket flitigt på flera ställen över ett stort land, kan man finna polarsken nästan hvarje natt Därigenom utplånas till stor del den nämnda växlingen.} Denna period var förut påvisad hos en hel del andra företeelser, särskildt magnetiska, som, såsom vi nedan skola se, stå i närmaste sammanhang med norrskenen, men även hos åskväder och lufttryck. Man har sedan länge ansett denna växling stå i sammanhang med solens rotation. Österrikaren Hornstein gick till och med så långt, att han föreslog bestämmandet av denna periods längd, såsom gifvande »ett noggrannare värde på solens omloppstid än de direkta bestämningarne.» Vi veta numera, att denna är olika på olika bredder, ett förhållande, som redan var välbekant för Carrington och Sporer på grund av solfläckarnas rörelse på olika latitud, men som säkrast fastställts genom Dunérs spektroskopiska mätningar av sol-fotosfärens rörelse. Dunér fann följande sideriska omloppstider, som motsvaras av de bredvid skrifna synodiska omloppstiderna, för gifna latituder på solen. --- Med siderisk omloppstid hos en punkt på solen menar man den tid som förgår mellan två ögonblick, i hvilka en gifven stjärna passerar genom punktens meridianplan, det vill säga det genom solens poler och punkten i fråga gående planet. Den synodiska omloppstiden bestämmes av jordens passage genom sagda meridianplan. På grund av jordens rörelse i sin bana är den synodiska omloppstiden längre än den sideriska ---.
 
-Breddgrad på solen|0|15|30|45|69|75|grader.  
-Siderisk|omloppstid|25,4|26,4|27,6|30,0|33,9|38,5|dygn.  
-Synodisk|omloppstid|27,3|28,5|29,9|32,7|37,4|43,0|dygn.  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l r r r r r r l}
+        Breddgrad på solen & 0 & 15 & 30 & 45 & 69 & 75 & grader.   \\
+        Siderisk omloppstid & 25,4 & 26,4 & 27,6 & 30,0 & 33,9 & 38,5 & dygn.   \\
+        Synodisk omloppstid & 27,3 & 28,5 & 29,9 & 32,7 & 37,4 & 43,0 & dygn. \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Detta förhållande med solens fotosfärs omloppstid och liknande vid fläckars, facklors och protuberansers omloppstider, att de växa betydligt med latituden, är en bland solarfysikens mest gåtfulla företeelser. Något liknande äger också rum för molnen på Jupiter, men skillnaden är där betydligt mindre, endast omkring 1 procent. Molnen i jordens atmosfär förhålla sig på alldeles motsatt sätt, hvilket också lätt förklaras ur den atmosfäriska cirkulationen.
 
 I vårt förevarande fall kan naturligtvis endast solens ställning till jorden, det vill säga den synodiska omloppstiden, vara av någon betydelse. Vi se då, att periodlängden 25,93 dygn alls icke överensstämmer med någon omloppstid av solens fotosfär. Minsta skillnaden inträffar för solens äkvator, och det vore ju rimligt, att vi räkna med denna, då jorden aldrig i högre grad aflägsnar sig från solens äkvatorialplan och för öfrigt periodiskt återkommer dit två gånger årligen.
@@ -625,23 +674,35 @@ Man har länge, sedan Celsius' och Hiorters iakttagelser år 1741, känt till, a
 
 Dessa magnetiska variationer ha alldeles samma perioder som polarsken och solfläckar. Hvad till en början den långa perioden om 11,1 år angår, så visa observationerna att de så kallade störingarna, plötsliga ändringar i magnetens ställning, troget afspegla solfläckarnes variationer. Detta sammanhang upptäcktes redan 1852 av Sabine i England, Wolf i Schweiz och Gautier i Frankrike. Men även den jämna dagliga variationen i magnetnålens ställning är underkastad samma period. En magnetnål pekar med sin nordända åt norr, i våra trakter med någon afvikning åt väster. Denna västliga afvikning är störst strax efter middagen, omkring klockan 1 e. m. Denna dagliga växling är större på sommaren än på vintern och ändringen i magnetens stånd är större om dagen än om natten. Det är således uppenbart att en solverkan här föreligger. Detta blir ännu tydligare, om man iakttar den dagliga variationens ändring med solfläckarnas antal. I nedanstående tabell är denna ändring av deklinationen i Prag angifven för åren 1856-1889, hvarvid endast år med maxima och minima av solfläckar och av magnetisk variation uttagits.
 
-År|1856|1860|1867|1871|1879|1884|1889  
-Solfläckstal|4,3|95,7|7,3|139,1|3,4|63,7|6,3  
-
-År|1856|1859|1867|1871|1878|1883|1889  
-Daglig variation obs.|5,98|10,36|6,95|11,43|5,65|8,34|5,99  
-deklinationen ber.|6,08|10,20|6,22|12,15|6,04|8,76|6,17  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l r r r r r r r}
+        År & 1856 & 1860 & 1867 & 1871 & 1879 & 1884 & 1889 \\
+        Solfläckstal & 4,3 & 95,7 & 7,3 & 139,1 & 3,4 & 63,7 & 6,3   \\ \hline
+        ~ & ~ & ~ & ~ & ~ & ~ & ~ & ~ \\
+        År & 1856 & 1859 & 1867 & 1871 & 1878 & 1883 & 1889 \\
+        Daglig variation obs. & 5,98 & 10,36 & 6,95 & 11,43 & 5,65 & 8,34 & 5,99   \\
+        deklinationen ber. & 6,08 & 10,20 & 6,22 & 12,15 & 6,04 & 8,76 & 6,17 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Som man ser, sammanfalla åren för maxima och minima i de båda fenomenen mycket nära med hvarandra. Öfverensstämmelsen är så påtaglig, att man kan beräkna den dagliga variationen såsom växande proportionel med solfläckstalet, såsom synes av tabellens två sista rader.
 
 Den årliga variationen är alldeles densamma som för polarskenen, hvilket synes av följande tabell angifvande störingarna i magnetisk deklination, horisontalintensitet och vertikalintensitet i Toronto, Canada, och medeltalet för dessa tre storheter för Greenwich. Såsom enhet har tagits medelvariationen under året.
 
-Månad|Jan.|Febr.|Mars.|April.|Maj.|Juni.|Juli.|Aug.|Sept.|Okt.|Nov.|Dec.  
-Toronto, Dekl,|**0,57**|0,84|1,11|**1,42**|0,98|**0,53**|0,94|1,16|**1,62**|1,31|0,78|0,76  
-Toronto, Hons.|**0,56**|0,94|0,94|**1,50**|0,90|**0,36**|0,61|0,75|**1,71**|1,48|0,98|0,58  
-Toronto, Vert.|**0,57**|0,74|1,08|**1,49**|1,12|**0,50**|0,71|1,08|**1,61**|1,29|0,75|0,61  
-Greenwich, Med.|0,93|**1,23**|1,22|1,09|0,81|**0,71**|0,81|0,90|1,15|**1,18**|1,02|**0,83*\footnote{}  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{l p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm} p{4mm}}
+        Månad & Jan. & Febr. & Mars. & April. & Maj. & Juni. & Juli. & Aug. & Sept. & Okt. & Nov. & Dec. \\ \hline
+        Toronto, Dekl, & \textbf{0,57} & 0,84 & 1,11 & \textbf{1,42} & 0,98 & \textbf{0,53} & 0,94 & 1,16 & \textbf{1,62} & 1,31 & 0,78 & 0,76 \\
+        Toronto, Hons. & \textbf{0,56} & 0,94 & 0,94 & \textbf{1,50} & 0,90 & \textbf{0,36} & 0,61 & 0,75 & \textbf{1,71} & 1,48 & 0,98 & 0,58 \\
+        Toronto, Vert. & \textbf{0,57} & 0,74 & 1,08 & \textbf{1,49} & 1,12 & \textbf{0,50} & 0,71 & 1,08 & \textbf{1,61} & 1,29 & 0,75 & 0,61 \\
+        Greenwich, Med. & 0,93 & \textbf{1,23} & 1,22 & 1,09 & 0,81 & \textbf{0,71} & 0,81 & 0,90 & 1,15 & \textbf{1,18} & 1,02 & \textbf{0,83} \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Störingarnas dagliga variation är beräknad av van Bemmelen för tiden 1882-1893 och observationsorten Batavia på Java. Maximet inträffar kl. 1 e. m. och är 1,86 gånger större än medeltalet för dagen, minimet 0,48 inträffar kl. 11 på kvällen. Från klockan 8 på aftonen till klockan 3 på morgonen äro störingarna nära lika sällsynta som kl. 11 e. m.
 
 Variationen är störst hos deklinationen som når maximet 3,26 kl. 12 midd. och minimet 0,14 kl, 11 på kvällen.
@@ -822,19 +883,25 @@ Man har gjort den iakttagelsen, att de olika linjerna i nebulosornas spektra ej 
 
 Ritter och Lane hafva gjort intressanta beräkningar angående jämviktsförhållandena i en gasformig himlakropp, som är av så liten täthet, att gaslagarna därpå kunna tillämpas. Detta torde kunna ske för gaser eller gasblandningar, hvilkas täthet ej överstiger en tiondedel av vattnets, eller en fjortondedel av solens nuvarande täthet. Naturligtvis blir trycket i de centrala delarna av en sådan gasmassa större än i de yttre delarna, av samma grunder som tätheten i jordens atmosfär tilltager uppifrån och nedåt. Om nu en luftmassa i jordens atmosfär förflyttas 1000 meter uppåt, så vidgas dess volym och temperaturen sjunker med 9,8 grader. Om ytterst häftiga vertikala rörelser ägde rum i luftmassorna, så skulle deras temperatur ändra sig på detta sätt med höjden; värmestrålningen sträfvar likväl att utjämna de så uppkommande temperaturskillnaderna. Följande beräkning av Schuster angående förhållandena hos en gasmassa av solens storlek stöder sig på Ritters undersökning. Den är gjord under förutsättning att värmeförhållandena i gasmassan bestämmas endast av gasmassornas rörelse och ej av strålningen. Beräkningen gäller för en stjärna, som har samma massa som solen ($1,9.10^{33}$ gram eller 324,000 gånger jordens massa) och en radie som är tio gånger solens (10 x 690,000 kilometer) eller hvars medeltäthet är 1,000 gånger mindre än solens medeltäthet (eller 0,0014 gånger vattnets täthet vid 4° C.) I följande tabell anges till en början afståndet från stjärnans midtpunkt uti bråkdelar av dess radie. Tätheten uttryckes på vanligt sätt i vattnets såsom enhet. Trycket angifves i tusentals atmosfärer. Temperaturen angifves i tusental Celsiusgrader; denna ändrar sig proportionellt mot molekylarvikten hos den gas, stjärnan består af; de i tabellens fjärde kolumn gifna temperaturerna gälla för en gas av molekylarvikten 1, det vill säga för vätgas som är sönderdelad i atomer, såsom den otvifvelaktigt är på solen och på stjärnorna. Antoge man stjärnan bestå av järn, så finge man multiplicera de sist nämnda talen med järnets molekylarvikt, 56. De motsvarande talen stå i den femte kolumnen.
 
-Afstånd fr. medelp.|specifik vikt|Tryck i $10^{3}$ atmosf.|Temperatur i $10^{3}$ °C. i vätgas|Temperatur i $10^{3}$ °C. i järngas  
-0|0,00844|852|2,460|137,500  
-0,1|0,00817|807|2,406|134,600  
-0,2|0,00739|683|2,251|126,100  
-0,3|0,00623|513|2,007|112,400  
-0,4|0,00488|342|1,707|95,600  
-0,5|0,00354|200|1,377|77,100  
-0,6|0,00233|100|1,043|58,400  
-0,7|0,00136|40|728|48,800  
-0,8|0,00065|12|445|24,900  
-0,9|0,00020|1,7|202|11,300  
-1,0|0,00000|0|0|0  
-
+\begin{table}[H]
+    \centering
+    \footnotesize
+    \begin{tabular}{p{15mm} p{15mm} p{15mm} p{21mm} p{23mm}}
+        Afstånd fr. medelp. & specifik vikt & Tryck i $10^{3}$ atmosf. & Temperatur i $10^{3}$ °C. i vätgas & Temperatur i $10^{3}$ °C. i järngas \\
+        0 & 0,00844 & 852 & 2460 & 137500 \\
+        0,1 & 0,00817 & 807 & 2406 & 134600 \\
+        0,2 & 0,00739 & 683 & 2251 & 126100 \\ 
+        0,3 & 0,00623 & 513 & 2007 & 112400 \\
+        0,4 & 0,00488 & 342 & 1707 & 95600 \\
+        0,5 & 0,00354 & 200 & 1377 & 77100 \\
+        0,6 & 0,00233 & 100 & 1043 & 58400 \\
+        0,7 & 0,00136 & 40 & 728 & 48800 \\
+        0,8 & 0,00065 & 12 & 445 & 24900 \\
+        0,9 & 0,00020 & 1,7 & 202 & 11300 \\
+        1,0 & 0,00000 & 0 & 0 & 0 \\
+    \end{tabular}
+\end{table}
+\paragraph{}
 Schusters beräkning är egentligen gjord för solen, det vill säga en himlakropp, hvars diameter är 10 gånger mindre och hvars specifika vikt följaktligen är 1,000 gånger större än de här ofvan gifna värdena. Enligt gravitationslagen och gaslagarne bör trycket då vara 10,000 och temperaturen 10 gånger högre än ofvanstående tabell anger. Tätheten blir emellertid då i de inre delarna allt för hög, för att gaslagarna skulle kunna tillämpas. Jag har därför ändrat beräkningen till att gälla för en himlakropp hvars radie är 10 gånger större än solens, eller 1,080 gånger större än jordens och som fyller ut ett afstånd av en tjugotvåondel av vägen mellan solens medelpunkt och jordbanan, en himlakropp, som sålunda likväl har en mycket ringa utbredning jämförd med nebulosorna.
 
 Påfallande äro de utomordentligt höga trycken i himlakroppens inre delar. Dessa bero på den stora massan och de små afstånden. För solens medelpunkt skulle trycket uppgå till 8,520 miljoner atmosfärer, då trycket växer omvändt som fjärde potensen på himlakroppens radie. I själfva verket är nog trycket vid solens medelpunkt av denna storleksordning men något mindre. Skulle solen breda ut sig till en klotformig (planetarisk) nebulosa av 1,000 gånger dess nuvarande lineära dimensioner, det vill säga nästan fyllande jupiterbanan, så skulle specifika vikten i dess medelpunkt sjunka till en miljondel av det ofvan gifna värdet, det vill säga även där materien vore mest koncentrerad i denna nebulosa, skulle den dock ej vara tätare än i de starkast utpumpade vakuumrör, som vi kunna åstadkomma (vid vanlig temperatur). Trycket skulle också vara betydligt reduceradt, nämligen till endast omkring 6 millimeter, i gasmassans medelpunkt. Men temperaturen skulle vara ganska hög i medelpunkten, nämligen 24,600 grader, om nebulosan bestode av vätgas i atomtillstånd, och 56 gånger högre, om den bestode av järngas. En dylik nebulosa skulle ha omkring hälften så stor förmåga att hålla kvar gaser som jorden, gasmolekyler, som rörde sig utåt med omkring 5 kilometers hastighet i sekunden, skulle för alltid försvinna ur hennes atmosfär.
