@@ -76,7 +76,7 @@ Helt annorlunda än dessa häftigt verksamma vulkaner förhålla sig andra, som 
 
 Den viktigaste beståndsdelen bland de kroppar, som stötas ut ur vulkanerna, är vattenånga. Därför utgör molnet över vulkankratern det säkraste kännemärket på vulkanens verksamhet. Vid de häftiga utbrotten stötas dessa ångmassor högt upp i luften, såsom av närstående bilder synes, bortåt åtta kilometer. Vesuvius själf är Fig. 2. Vesuvii utbrott år 1794; efter en samtida handteckning. 1300 m. högt över hafsytan, och med ledning däraf kan man uppskatta molnets höjd. Omstående bild återger en teckning av Poulett Scrope,som föreställer Vesuvii utbrott år 1822. I detta fall synes vindstilla råda.
 
-[Fig. 2. --- Vesuvii utbrott år 1794; efter en samtida handteckning.](https://www.gutenberg.org/cache/epub/69022/images/i_018.jpg)
+[Fig. 2. --- Vesuvii utbrott år 1794; efter en samtida handteckning.](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/fig-02.png)
 
 Ångmassorna bilda då moln av en regelbunden form påminnande om utseendet av en pinie. Molnet över Vesuvius vid dess utbrott år 79 beskrifves av Plinius såsom hafvande ägt detta utseende. Då luften ej är så stilla, antager molnet en mera oregelbunden form (fig. 4). Moln, som stiga upp till så stora höjder som de nämnda, utmärka sig genom häftiga elektriska laddningar. De kraftiga blixtarna, som på grund häraf skjuta ut ur det svarta molnet, bidraga mycket till att öka intrycket av det hemska skådespelet.
 
