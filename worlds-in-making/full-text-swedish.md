@@ -472,10 +472,10 @@ Amplituden anger halfva den dagliga förändringen, så att den utgör medeltale
 Årsvariationen framgår av följande tabell för observationsorter belägna på 1) 10° n bredd 2) 22,30 s. br. 3) 41°, 52' n. br. (Rom) och 4) 59°, 52' n. br. (Uppsala).
 
 Jan.|Febr.|Mars.|Apr.|Maj.|Juni.|Juli.|Aug.|Sept.|Okt.|Nov.|Dec.|År.  
-1\.|0,79|0,80|0,88|0,82|0,73|0.65|0,65|0,69|0,75|0,78|0,82|0,79|0,76  
-2\.|0.65|0,68|0,70|0,68|0,64|0,61|0,63|0,66|0,72|0.72|0,67|0,66|0.67  
-3\.|0,30|0,33|0,35|0,32|0,29|0,26|0,26|0,30|0,35|0.36|0,33|0,29|0,31  
-4\.|0,13|0,11|0,15|0,16|0,14|0,13|0,13|0,14|0.17|0,15|0,11|0,10|0,13  
+1\.|**0,79**|0,80|**0,88**|0,82|0,73|**0,65**|**0,65**|0,69|0,75|0,78|**0,82**|**0,79**|0,76  
+2\.|**0,65**|0,68|**0,70**|0,68|0,64|**0,61**|0,63|0,66|**0,72**|**0,72**|0,67|0,66|0,67  
+3\.|0,30|0,33|**0,35**|0,32|0,29|**0,26**|**0,26**|0,30|0,35|**0,36**|0,33|**0,29**|0,31  
+4\.|0,13|0,11|0,15|**0,16**|0,14|**0,13**|**0,13**|0,14|**0,17**|0,15|0,11|**0,10**|0,13  
 
 Man finner tydligt utprägladt ett maximum vid vår-och ett vid höst-dagjämningen, med däremellan liggande minima i December och Juni. Denna period är egendomlig för ändringen av den mängd solstoft, som faller ned i jordens atmosfär och som vi återfinna hos perioderna för polarskenen och de magnetiska störingarna.
 
@@ -486,9 +486,9 @@ Den dagliga gången är även mycket regelbunden. Minimet efter middagen (kl. 3,
 Mängden solstoft, som faller in i luftkretsen, bör naturligtvis förändra sig och löpa parallellt med solens eruptiva verksamhet. Stoftmängden i de högre luftskikten har inflytande på solljusets färg. Efter vulkanen Rakatas på Krakatoa utbrott 1883 och, fastän i ringare grad, efter Mont Pelées på Martinique utbrott 1902 iakttog man det så kallade röda skenet. Samtidigt visade sig en annan företeelse, som kvantitativt kan mätas. Himlaljuset är polariseradt utom i några få punkter, bland hvilka en, den så kallade Aragos punkt, liggande något ofvanför solens motpunkt och en annan, Babinets punkt, liggande något ofvanför solen, äro de viktigaste. Om man bestämmer dessa punkters höjd över horisonten vid solnedgången finner man i överensstämmelse med de teoretiska förutsägelserna att denna är större, då de högre luftlagren äro fulla av stoft, såsom efter Rakatas utbrott, än under normala förhållanden. Busch, en tysk forskare, undersökte dessa punkters medelhöjd (i båggrader) vid solnedgången och fann följande egendomliga siffror:
 
 År|1886|87|88|89|90|91|92|93|94|95|Medeltal  
-Aragos punkt|20,1|19,7|18,4|17,8|17,7|20,6|19,6|20,2|20,7|18,8|19,4  
-Babinets punkt|23,9|21,9|17,9|26,8|15,4|23,3|21,4|24,2|23,3|19,0|20,7  
-Solfläckar ant.|25,1|19,1|6,7|6,1|6,5|35,6|73,8|84,9|78,0|63,9|40,0  
+Aragos punkt|20,1|19,7|18,4|17,8|**17,7**|20,6|19,6|20,2|**20,7**|18,8|19,4  
+Babinets punkt|23,9|21,9|17,9|26,8|**15,4**|23,3|21,4|**24,2**|23,3|19,0|20,7  
+Solfläckar ant.|25,1|19,1|6,7|**6,1**|6,5|35,6|73,8|**84,9**|78,0|63,9|40,0  
 
 Det är en alldeles tydlig överensstämmelse i gången av dessa siffror. Nästan samtidigt med solfläcksmaximet når också de båda s. k. neutrala punkternas höjd över horisonten vid solnedgången ett maximivärde och liknande förhållanden gälla för minimivärdena. Måhända komma företeelserna i lufthafvet någon tid senare än de orsakande företeelserna på solen, såsom naturligt är.
 
@@ -551,18 +551,18 @@ Beträffande polarskenens höjd finna vi i litteraturen högst olikartade uppgif
 Polarskenen besitta även en utpräglad årlig period hvilken lätt kan förklaras med hjälp av solstoftsteorien. Såsom vi ofvan sett förekomma fläckarna på solen endast sällan i närheten av solens äkvator, och detsamma gäller för facklorna. De tilltaga hastigt i mängd för högre sollatituder och nå ett maximum vid ungefär 150 sollatitud. Solens äkvatorialplan lutar omkring 7 grader mot jordens banplan. Jorden befinner sig i solens äkvatorialplan den 6 December och den 4 Juni och längst därifrån 3 månader senare. Man bör därför vänta, att antalet solstofts-partiklar som träffa jorden bör ha ett minimum, då jorden befinner sig i dess äkvatorialplan i December och Juni och maxima i Mars och September. Dessa förhållanden störas något av skymningsljuset, som i de polära trakterna förhindrar iakttagelser av polarsken under de ljusa sommarnätterna, medan däremot de mörka vinternätterna gynna iakttagandet av dessa svaga ljusfenomen. Fördelningen av polarskenen under olika tider av året framgår av följande av Ekholm och mig uppgjorda statistik.
 
 Sverige 1883-96|Norge 1861-95|Island och Grönland 1872-92|Nord.-Am. Förenta St. 1871-93|Södersten 1856-94  
-Januari|1056|251|804|1005|56  
+Januari|1056|**251**|804|1005|**56**  
 Februari|1173|331|734|1455|126  
-Mars|1312|835|613|1396|183  
-April|568|90|128|1724|148  
+Mars|**1312**|**335**|613|1396|**183**  
+April|568|90|128|**1724**|148  
 Maj|170|6|1|1270|54  
-Juni|10|0|0|1061|40  
-Juli|54|0|0|1223|35  
+Juni|**10**|**0**|**0**|**1061**|40  
+Juli|54|0|0|1223|**35**  
 Augusti|191|18|40|1210|75  
-September|1055|209|455|1735|120  
-Oktober|1114|353|716|1630|192  
+September|1055|209|455|**1735**|120  
+Oktober|**1114**|**353**|716|1630|**192**  
 November|1077|326|811|1240|112  
-December|940|260|863|912|81  
+December|**940**|260|**863**|**912**|81  
 Medeltal|727|181|430|1322|102  
 
 I trakter där skillnaden mellan dagens och nattens längd ej är allt för stor under olika delar av året, såsom enligt ofvanstående tabell, i Nordamerikas Förenta Stater och i trakter, i medeltal omkring 40° sydlig bredd, där södersken observerats, faller hufvudminimet under vintern, i December på norra, i Juni eller Juli på södra halfklotet och ett svagare utprägladt minimum inträffar under sommaren. Av de tider, under hvilka jorden går genom solens äkvatorialplan och då ett minimum av solstoft faller ned på jorden, är _den_ utmärkt genom en större polarskensfrekvens, under hvilken solen står högst på himmelen. Detta är hvad man har rätt att vänta, ty det mesta solstoftet faller ned på de världsdelar, över hvilka solen står högst vid middagstiden. De båda maxima i Mars eller April och September eller Oktober då jorden är längst aflägsnad från solens äkvatorialplan äro starkt utpräglade i alla serierna utom den för polarländerna Island och Grönland. Där bestämmes polarljusfrekvensen endast av skymningsljusets styrka, så att ett enda maximum faller i December det motsvarande minimet i Juni. Nyare statistik (1891-1903) ger dock ett minimum i december. Av samma orsak blir sommarminimet i de på hög breddgrad liggande länderna, såsom Sverige och Norge, mycket lågt.
@@ -605,10 +605,10 @@ Som man ser, sammanfalla åren för maxima och minima i de båda fenomenen mycke
 Den årliga variationen är alldeles densamma som för polarskenen, hvilket synes av följande tabell angifvande störingarna i magnetisk deklination, horisontalintensitet och vertikalintensitet i Toronto, Canada, och medeltalet för dessa tre storheter för Greenwich. Såsom enhet har tagits medelvariationen under året.
 
 Månad|Jan.|Febr.|Mars.|April.|Maj.|Juni.|Juli.|Aug.|Sept.|Okt.|Nov.|Dec.  
-Toronto, Dekl,|0,57|0,84|1,11|1,42|0,98|0,53|0,94|1,16|1,62|1,31|0,78|0,76  
-Toronto, Hons.|0,56|0,94|0,94|1,50|0,90|0,36|0,61|0,75|1,71|1,48|0,98|0,58  
-Toronto, Vert.|0,57|0,74|1,08|1,49|1,12|0,50|0,71|1,08|1,61|1,29|0,75|0,61  
-Greenwich, Med.|0,93|1,23|1,22|1,09|0,81|0,71|0,81|0,90|1,15|1,18|1,02|0,83  
+Toronto, Dekl,|**0,57**|0,84|1,11|**1,42**|0,98|**0,53**|0,94|1,16|**1,62**|1,31|0,78|0,76  
+Toronto, Hons.|**0,56**|0,94|0,94|**1,50**|0,90|**0,36**|0,61|0,75|**1,71**|1,48|0,98|0,58  
+Toronto, Vert.|**0,57**|0,74|1,08|**1,49**|1,12|**0,50**|0,71|1,08|**1,61**|1,29|0,75|0,61  
+Greenwich, Med.|0,93|**1,23**|1,22|1,09|0,81|**0,71**|0,81|0,90|1,15|**1,18**|1,02|**0,83**  
 
 Störingarnas dagliga variation är beräknad av van Bemmelen för tiden 1882-1893 och observationsorten Batavia på Java. Maximet inträffar kl. 1 e. m. och är 1,86 gånger större än medeltalet för dagen, minimet 0,48 inträffar kl. 11 på kvällen. Från klockan 8 på aftonen till klockan 3 på morgonen äro störingarna nära lika sällsynta som kl. 11 e. m.
 
