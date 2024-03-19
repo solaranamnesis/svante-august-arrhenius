@@ -9,7 +9,7 @@ English - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom | 
 German - Plain Text  
 German - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom | B&WCustom  
 [Swedish - Plain Text](worlds-in-making/full-text-swedish.md)  
-Swedish - PDF | Biolinum | Atkinson | Kerkis | Fraktur | Schwabacher | Custom | B&WCustom  
+[Swedish - PDF](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish.pdf) | [Biolinum](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_biolinum.pdf) | [Atkinson](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_atkinson.pdf) | [Coelacanth](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_coelacanth.pdf) | [Aurical](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_aurical.pdf) | [Custom](https://cdn.solaranamnesis.com/SvanteArrhenius/WorldsInMaking/arrhenius_world_making_1906_swedish_custom.pdf)  
 
 ## The Life of the Universe.
 
